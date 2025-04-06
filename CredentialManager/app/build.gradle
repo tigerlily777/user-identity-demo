@@ -31,7 +31,7 @@ keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
 
 android {
     namespace 'com.google.credentialmanager.sample'
-    compileSdk 34
+    compileSdk 35
     defaultConfig {
         applicationId "com.google.credentialmanager.sample"
         minSdk 21
